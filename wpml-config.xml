@@ -1,0 +1,149 @@
+<wpml-config>
+	
+	<custom-types>
+		<custom-type translate="1">course</custom-type>
+		<custom-type translate="1">event</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">teacher</custom-type>
+	</custom-types>
+	
+    <admin-texts>
+        <key name="sidebar_position" />
+        <key name="main_menu_search" />
+        <key name="logo_image" />
+        <key name="logo_text_dark" />
+        <key name="logo_text_light" />
+        <key name="default_header_url" />
+        <key name="custom_favicon" />
+        <key name="google_analytics" />
+        <key name="footer_text" />
+        <key name="display_homepage_blocks" />
+        <key name="homepage_coloured_blocks_number" />
+		<key name="homepage_coloured_blocks">
+			<key name="1">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="colour" />
+			</key>
+			<key name="2">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="colour" />
+			</key>
+			<key name="3">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="colour" />
+			</key>
+			<key name="4">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="colour" />
+			</key>
+			<key name="5">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="colour" />
+			</key>
+			<key name="6">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="colour" />
+			</key>
+		</key>
+		<key name="homepage_slider">
+			<key name="1">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="description" />
+			</key>
+			<key name="2">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="description" />
+			</key>
+			<key name="3">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="description" />
+			</key>
+			<key name="4">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="description" />
+			</key>
+			<key name="5">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="description" />
+			</key>
+			<key name="6">
+				<key name="order" />
+				<key name="title" />
+				<key name="url" />
+				<key name="link" />
+				<key name="description" />
+			</key>
+		</key>
+        <key name="body_background" />
+        <key name="body_background_image" />
+        <key name="background_repeat" />
+        <key name="main_colour" />
+        <key name="footer_background_colour" />
+        <key name="footer_highlight_colour" />
+        <key name="footer_link_colour" />
+        <key name="top_bar_hover_colour" />
+        <key name="main_colorrgba" />
+        <key name="custom_css" />
+        <key name="custom_font_code" />
+		<key name="custom_font" />
+        <key name="portfolio_columns" />
+        <key name="portfolio_items_pp" />
+        <key name="portfolio_page_url" />
+        <key name="course_items_pp" />
+        <key name="course_order" />
+        <key name="course_page_url" />
+        <key name="teacher_items_pp" />
+        <key name="teacher_single_link" />
+        <key name="teacher_single_style" />
+        <key name="teacher_page_url" />
+        <key name="event_items_pp" />
+		<key name="event_page_url" />
+        <key name="email_address" />
+        <key name="phone_number" />
+        <key name="social_twitter" />
+        <key name="social_facebook" />
+        <key name="social_googleplus" />
+        <key name="social_pinterest" />
+        <key name="social_flickr" />
+        <key name="social_youtube" />
+        <key name="social_vimeo" />
+        <key name="social_skype" />
+        <key name="social_rss" />
+		<key name="of_backup" />
+        <key name="of_transfer" />
+    </admin-texts>
+
+</wpml-config>

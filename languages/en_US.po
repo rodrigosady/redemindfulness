@@ -1,0 +1,775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ParkCollege\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-15 13:06+0800\n"
+"PO-Revision-Date: 2014-07-15 13:06+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:26
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:44
+msgid "Oops! we couldn't find the page you requested,"
+msgstr ""
+
+#: ../404.php:44
+msgid "Go home?"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "All posts in: \"%s\""
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "All posts tagged: \"%s\""
+msgstr ""
+
+#: ../archive.php:35
+#, php-format
+msgid "All posts by: \"%s\""
+msgstr ""
+
+#: ../archive.php:39
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:47
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:50
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:89
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../comments.php:14
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:14
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:14
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:22
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:45
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:47
+#: ../comments.php:49
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Cancel Reply To Comment"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:59
+#: ../comments.php:61
+msgid "required"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Website"
+msgstr ""
+
+#: ../footer.php:36
+msgid "Top"
+msgstr ""
+
+#: ../functions.php:45
+#: ../functions.php:186
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:76
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:78
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:84
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:91
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:118
+msgid "Standard Page Sidebar"
+msgstr ""
+
+#: ../functions.php:120
+msgid "Displayed in the sidebar of all pages except the homepage"
+msgstr ""
+
+#: ../functions.php:129
+msgid "Homepage Left"
+msgstr ""
+
+#: ../functions.php:131
+msgid "Displayed on the left side of the homepage"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Homepage Right"
+msgstr ""
+
+#: ../functions.php:142
+msgid "Displayed on the right side of the homepage"
+msgstr ""
+
+#: ../functions.php:151
+msgid "Homepage Center"
+msgstr ""
+
+#: ../functions.php:153
+msgid "Displayed in the center of the homepage"
+msgstr ""
+
+#: ../functions.php:162
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:164
+msgid "Displayed at the bottom of all pages"
+msgstr ""
+
+#: ../functions.php:187
+msgid "Top Left Navigation"
+msgstr ""
+
+#: ../functions.php:702
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: ../functions.php:704
+#: ../functions.php:716
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:810
+#: ../functions.php:861
+#: ../functions.php:1103
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:906
+msgid "This post is password protected. To view it please enter your password below"
+msgstr ""
+
+#: ../functions.php:907
+msgid "Password"
+msgstr ""
+
+#: ../functions.php:1105
+#: ../search-courses.php:25
+#: ../search.php:28
+msgid "Search Results"
+msgstr ""
+
+#: ../functions.php:1106
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: ../functions.php:1107
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: ../functions.php:1108
+msgid "Error 404"
+msgstr ""
+
+#: ../functions.php:1274
+msgid "Page"
+msgstr ""
+
+#: ../header.php:112
+msgid "Park"
+msgstr ""
+
+#: ../header.php:112
+msgid "College"
+msgstr ""
+
+#: ../index.php:25
+#: ../search.php:78
+#: ../search.php:210
+msgid "Blog"
+msgstr ""
+
+#: ../loop-style1.php:9
+msgid "By"
+msgstr ""
+
+#: ../loop-style1.php:10
+msgid "In"
+msgstr ""
+
+#: ../loop-style1.php:11
+msgid "Comments"
+msgstr ""
+
+#: ../loop-style1.php:12
+msgid "None"
+msgstr ""
+
+#: ../loop-style1.php:13
+msgid "1"
+msgstr ""
+
+#: ../loop-style1.php:14
+msgid "%"
+msgstr ""
+
+#: ../loop-style1.php:16
+msgid "Off"
+msgstr ""
+
+#: ../page.php:45
+msgid "Pages:"
+msgstr ""
+
+#: ../search-courses.php:47
+#: ../search-courses.php:75
+msgid "ID"
+msgstr ""
+
+#: ../search-courses.php:48
+#: ../search-courses.php:76
+msgid "Course Name"
+msgstr ""
+
+#: ../search-courses.php:49
+#: ../search-courses.php:77
+msgid "Program"
+msgstr ""
+
+#: ../search-courses.php:50
+#: ../search-courses.php:78
+msgid "Length"
+msgstr ""
+
+#: ../search-courses.php:60
+msgid "N/A"
+msgstr ""
+
+#: ../search-courses.php:87
+msgid "No courses have been added yet!"
+msgstr ""
+
+#: ../search.php:49
+#: ../search.php:198
+msgid "Pages"
+msgstr ""
+
+#: ../search.php:70
+#: ../search.php:99
+#: ../search.php:128
+#: ../search.php:157
+#: ../search.php:186
+#: ../search.php:204
+#: ../search.php:216
+#: ../search.php:228
+#: ../search.php:240
+#: ../search.php:252
+msgid "No results were found."
+msgstr ""
+
+#: ../search.php:107
+#: ../search.php:222
+msgid "Events"
+msgstr ""
+
+#: ../search.php:136
+#: ../search.php:234
+msgid "Teachers"
+msgstr ""
+
+#: ../search.php:165
+#: ../search.php:246
+msgid "Courses"
+msgstr ""
+
+#: ../single-course.php:82
+msgid "Course Code"
+msgstr ""
+
+#: ../single-default.php:85
+msgid "Tags: "
+msgstr ""
+
+#: ../single-default.php:102
+msgid "Tweet this article"
+msgstr ""
+
+#: ../single-default.php:103
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../single-default.php:104
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: ../single-event.php:72
+msgid "No time set"
+msgstr ""
+
+#: ../single-event.php:77
+msgid "No location set"
+msgstr ""
+
+#: ../single-event.php:90
+msgid "Time"
+msgstr ""
+
+#: ../single-event.php:91
+msgid "Location"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:480
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:551
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:43
+#: ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../functions/post-types/courses.php:9
+msgid "Course"
+msgstr ""
+
+#: ../functions/post-types/courses.php:10
+msgid "Add New"
+msgstr ""
+
+#: ../functions/post-types/courses.php:11
+msgid "Add New Course"
+msgstr ""
+
+#: ../functions/post-types/courses.php:17
+msgid "course"
+msgstr ""
+
+#: ../functions/post-types/courses.php:52
+msgid "Course ID"
+msgstr ""
+
+#: ../functions/post-types/courses.php:59
+msgid "Program Type"
+msgstr ""
+
+#: ../functions/post-types/courses.php:65
+msgid "Course Length"
+msgstr ""
+
+#: ../functions/post-types/courses.php:71
+msgid "Course Description"
+msgstr ""
+
+#: ../functions/post-types/courses.php:185
+#: ../functions/post-types/courses.php:305
+#: ../functions/post-types/courses.php:426
+#: ../functions/post-types/courses.php:547
+#: ../functions/post-types/courses.php:668
+msgid "Title"
+msgstr ""
+
+#: ../functions/post-types/courses.php:192
+#: ../functions/post-types/courses.php:312
+#: ../functions/post-types/courses.php:433
+#: ../functions/post-types/courses.php:554
+#: ../functions/post-types/courses.php:675
+msgid "Content"
+msgstr ""
+
+#: ../functions/post-types/events.php:9
+msgid "Event"
+msgstr ""
+
+#: ../functions/post-types/events.php:11
+msgid "Add New Event"
+msgstr ""
+
+#: ../functions/post-types/events.php:17
+msgid "event"
+msgstr ""
+
+#: ../functions/post-types/events.php:45
+#: ../functions/post-types/events.php:214
+msgid "Event Date"
+msgstr ""
+
+#: ../functions/post-types/events.php:52
+msgid "Event Time"
+msgstr ""
+
+#: ../functions/post-types/events.php:58
+msgid "Event Location"
+msgstr ""
+
+#: ../functions/post-types/page.php:22
+msgid "Page Header Image URL"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:8
+msgid "Portfolios"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:9
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:11
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:17
+msgid "portfolio"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:39
+msgid "Slideshow"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:53
+msgid "Portfolio Main Title"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:60
+msgid "Portfolio Main Content"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:67
+msgid "Portfolio Secondary Title"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:74
+msgid "Portfolio Secondary Content"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:128
+msgid "Add Images to Slideshow"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:132
+msgid "Add to slideshow"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:153
+#: ../functions/post-types/portfolio.php:200
+msgid "Delete image"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:153
+#: ../functions/post-types/portfolio.php:200
+msgid "Delete"
+msgstr ""
+
+#: ../functions/post-types/portfolio.php:212
+msgid "Add slideshow images"
+msgstr ""
+
+#: ../functions/post-types/teachers.php:9
+msgid "Teacher"
+msgstr ""
+
+#: ../functions/post-types/teachers.php:11
+msgid "Add New Teacher"
+msgstr ""
+
+#: ../functions/post-types/teachers.php:17
+msgid "teacher"
+msgstr ""
+
+#: ../functions/post-types/teachers.php:45
+msgid "Teacher Position"
+msgstr ""
+
+#: ../functions/post-types/teachers.php:52
+msgid "Teacher Phone"
+msgstr ""
+
+#: ../functions/post-types/teachers.php:58
+msgid "Teacher Email"
+msgstr ""
+
+#: ../functions/widgets/widget-blog-slider.php:12
+msgid "Display Blog Posts in a Slider"
+msgstr ""
+
+#: ../functions/widgets/widget-blog-slider.php:14
+msgid "Blog Slider Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-blog-slider.php:140
+#: ../functions/widgets/widget-category-posts.php:117
+#: ../functions/widgets/widget-contact.php:72
+#: ../functions/widgets/widget-course-finder.php:88
+#: ../functions/widgets/widget-events.php:157
+#: ../functions/widgets/widget-flickr.php:75
+#: ../functions/widgets/widget-map.php:79
+#: ../functions/widgets/widget-recent-posts.php:113
+#: ../functions/widgets/widget-shortcodes.php:73
+#: ../functions/widgets/widget-video.php:87
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/widget-blog-slider.php:145
+msgid "Total Number of Posts:"
+msgstr ""
+
+#: ../functions/widgets/widget-blog-slider.php:150
+msgid "Number of Posts Per Slide:"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:12
+msgid "Display Posts from a Category"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:14
+msgid "Custom Category Posts Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:122
+msgid "Post Category ID (e.g. \"10\"):"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:127
+#: ../functions/widgets/widget-recent-posts.php:118
+msgid "Post Limit:"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:12
+msgid "Display Contact Details"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:14
+msgid "Contact Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:77
+msgid "Phone Number:"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:82
+msgid "Email Address:"
+msgstr ""
+
+#: ../functions/widgets/widget-course-finder.php:12
+msgid "Display Course Finder"
+msgstr ""
+
+#: ../functions/widgets/widget-course-finder.php:14
+msgid "Course Finder Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-course-finder.php:53
+#: ../page-templates/template-courses.php:62
+msgid "Keywords"
+msgstr ""
+
+#: ../functions/widgets/widget-course-finder.php:54
+msgid "Search"
+msgstr ""
+
+#: ../functions/widgets/widget-course-finder.php:93
+msgid "Description:"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:12
+msgid "Display Latest Events"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:14
+msgid "Events Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:123
+#: ../page-templates/template-events.php:135
+msgid "No events have been added yet!"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:162
+msgid "Number of Events:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:12
+msgid "Display Your Flickr Photos"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:14
+msgid "Custom Flickr Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:80
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:85
+msgid "How Many Photos:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:94
+msgid "flickr_type (user or group):"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:12
+msgid "Display a Google Map"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:14
+msgid "Google Map Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:84
+msgid "Map Address (e.g. 123 Main Road, London, UK):"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:89
+msgid "Map Description:"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:12
+msgid "Display Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:14
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-shortcodes.php:12
+msgid "A widget which accepts shortcodes"
+msgstr ""
+
+#: ../functions/widgets/widget-shortcodes.php:14
+msgid "Shortcodes Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-shortcodes.php:78
+msgid "Shortcodes:"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:12
+msgid "Display a Video"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:14
+msgid "Video Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:92
+msgid "Video ID:"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:97
+msgid "Video Type:"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:105
+msgid "Video Caption:"
+msgstr ""
+
+#: ../includes/pagination.php:12
+msgid "&larr; Older posts"
+msgstr ""
+
+#: ../includes/pagination.php:13
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: ../page-templates/template-homepage.php:39
+msgid "No slides added yet? Go to \"Appearance > Theme Options > Home Settings\" and click \"Add New Slide\" in the \"Homepage Slideshow\" section."
+msgstr ""
+
+#: ../page-templates/template-portfolio.php:117
+msgid "No portfolios have been added yet!"
+msgstr ""
+
+#: ../page-templates/template-teacher1.php:123
+#: ../page-templates/template-teacher2.php:119
+msgid "No teachers have been added yet!"
+msgstr ""
+

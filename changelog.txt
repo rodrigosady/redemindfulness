@@ -1,0 +1,126 @@
+= V1.0 - 05.06.2013 =
+* Initial Release
+
+= V1.1 - 13.06.2013 =
+* Added option to change RGBA slideshow caption background
+	parkcollege/admin/functions/functions.options.php
+	parkcollege/functions.php
+	
+* Fixed language files
+	parkcollege/languages/en_US.po
+	
+= V1.2 - 14.06.2013 =
+* Updated theme options
+	parkcollege/admin
+	
+* Fixed single post author
+	parkcollege/single-default.php
+	
+* Added import data
+	See "Import Demo Data" in the theme documentation
+	
+= V1.2.1 - 28.06.2013 =
+* Fixed Contact Form 7 CSS
+	parkcollege/style.css
+
+= V1.2.2 - 01.07.2013 =
+* Added teacher single page
+	parkcollege/style.css
+	parkcollege/single-teacher.php
+	parkcollege/page-templates/template-teacher1.php
+	parkcollege/page-templates/template-teacher2.php
+	parkcollege/admin/functions/functions.options.php
+	
+= V1.3 - 05.07.2013 =
+* Fixed Twitter Widget
+	parkcollege/style.css
+	parkcollege/css/colour.css
+	parkcollege/functions.php
+	
+= V1.3.1 - 08.07.2013 =
+* Fixed breadcrumbs bug
+	parkcollege/functions.php
+	
+= V1.4 - 15.07.2013 =
+* Fixed breadcrumbs bug
+	parkcollege/functions.php
+	parkcollege/admin
+	
+* Made theme options translatable with WPML
+	parkcollege/admin
+
+* Shortcodes can now be used within other shortcodes
+	parkcollege/functions/shortcodes
+	
+* Fixed minor CSS bug
+	parkcollege/style.css
+	
+= V1.4.1 - 26.07.2013 =
+* Added target option for button shortcode
+	parkcollege/functions/shortcodes/button.php
+
+= V1.4.2 - 28.07.2013 =
+* Fixed password protection functionality
+	parkcollege/single-course.php
+	parkcollege/single-default.php
+	parkcollege/single-event.php
+	parkcollege/single-portfolio.php
+	parkcollege/single-teacher.php
+	parkcollege/style.css
+	
+* Fixed event order bug
+	parkcollege/page-templates/template-events.php
+	parkcollege/functions/widgets/widget-events.php
+	
+= V1.4.3 - 09.08.2013 =
+* Fixed course form CSS bug in Chrome on Windows
+	parkcollege/style.css
+	parkcollege/css/responsive.css
+	
+* Fixed custom colour bug
+	parkcollege/functions.php
+
+= V1.4.4 - 03.09.2013 =
+* Fixed event order bug
+	parkcollege/functions/post-types/events.php
+	
+= V1.4.5 - 27.11.2013 =
+* Fixed search bug
+	parkcollege/header.php
+
+= V1.4.6 - 06.12.2013 =
+* Fixed course search pagination
+	parkcollege/functions.php
+	parkcollege/search.php
+	parkcollece/search-courses.php
+
+* Updated translation file
+	parkcollege/languages/en_US.po
+
+= V1.4.7 - 16.12.2013 =
+* Allow events to be sorted by event date, and allow past events to be hidden
+	parkcollege/admin/functions/functions.options.php
+	parkcollege/functions/post-types/events.php
+	parkcollege/widgets/widget-events.php
+	parkcollege/page-templates/template-events.php
+
+= V1.4.8 - 06.01.2014 =
+* Added boxed layout option for slideshow
+	parkcollege/admin/functions/functions.options.php
+	parkcollege/functions.php
+	parkcollege/style.css
+	
+= V1.5 - 29.04.2014 =
+* Fixed teacher single style toggle option
+	parkcollege/single-teacher.php
+	
+= V1.5.1 - 15.07.2014 =
+* Fixed translation bug
+	parkcollege/functions/widgets/widget-course-finder.php
+	
+* Improved WPML compatibility
+	parkcollege/wpml-config.xml
+	
+= V1.5.2 - 15.08.2014 =
+* Fixed minor on teacher single page
+	parkcollege/single-teacher.php
